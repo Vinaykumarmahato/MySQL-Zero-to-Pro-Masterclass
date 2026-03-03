@@ -1,8 +1,48 @@
-# 🚀 MySQL Zero to Pro Masterclass  
-### 🎯 From Beginner to Industry-Level Database Engineer  
-👨‍💻 Created by Vinay Kumar Mahato  
+<!-- ======================== BANNER ======================== -->
+
+<p align="center">
+  <img src="https://github.com/Vinaykumarmahato/MySQL-Zero-to-Pro-Masterclass/blob/main/sql%20banner.png?raw=true" width="100%" alt="MySQL Zero to Pro Masterclass Banner"/>
+</p>
 
 ---
+
+<!-- ======================== TITLE ======================== -->
+
+<h1 align="center">🚀 MySQL Zero to Pro Masterclass</h1>
+
+<h3 align="center">
+🎯 From Absolute Beginner → To Industry-Ready Database Engineer
+</h3>
+
+<p align="center">
+  👨‍💻 Crafted with dedication by <strong>Vinay Kumar</strong>
+</p>
+
+---
+
+<!-- ======================== SOCIAL BADGES ======================== -->
+
+<h2 align="center">🌐 Let's Connect & Learn Together</h2>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@YOUR-CHANNEL-NAME" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Watch%20Now%20(Hindi)-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vinaykumarmahato" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+
 
 ## 🌟 About This Repository
 

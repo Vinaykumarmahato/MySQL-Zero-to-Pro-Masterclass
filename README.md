@@ -26,16 +26,12 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/vinay-kumar860964/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/@YOUR-CHANNEL-NAME" target="_blank">
+<a href="https://www.youtube.com/@ADVIndianCoder-i9y" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-Watch%20Now%20(Hindi)-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Vinaykumarmahato" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
